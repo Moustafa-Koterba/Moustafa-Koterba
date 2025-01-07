@@ -23,3 +23,8 @@ Beyond professional work, game development is both a career path and a personal 
 ## Personal Philosophy
 Code is not just about solving problems—it's about crafting elegant solutions that inspire and create meaningful digital experiences. 🎮💻
 Always eager to collaborate, learn, and innovate!
+
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Moustafa-Koterba&show_icons=true&theme=radical)
+![Mes Stats GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moustafa-Koterba&theme=synthwave)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Moustafa-Koterba&layout=compact&theme=synthwave)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Moustafa-Koterba&show_icons=true&theme=synthwave) 
